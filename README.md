@@ -63,4 +63,4 @@ info users
 Имеет механизм кэширования
 
 # ASCIINEMA
-[![asciicast](https://asciinema.org/a/rmCtZxYmKCLByQC0CImSEEGE3.svg)](https://asciinema.org/a/rmCtZxYmKCLByQC0CImSEEGE3)
+[![asciicast](https://asciinema.org/a/qokHMdQRHm8k6XuVpjK9cBauF.svg)](https://asciinema.org/a/qokHMdQRHm8k6XuVpjK9cBauF)
