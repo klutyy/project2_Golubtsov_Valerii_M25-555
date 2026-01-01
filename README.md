@@ -61,3 +61,6 @@ info users
 ```
 
 Имеет механизм кэширования
+
+# ASCIINEMA
+https://asciinema.org/connect/1176f052-0065-460c-a056-4a51acdc1103
