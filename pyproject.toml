@@ -1,14 +1,15 @@
 [project]
 name = "project2-golubtsov-valerii-m25-555"
 version = "0.1.0"
-description = ""
+description = "Проект №2 Программирование на Python. В рамках проекта была разработана простая БД"
 authors = [
     {name = "Valerii Golubtsov",email = "golubcov.valera@yandex.ru"}
 ]
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "prompt (>=0.4.1,<0.5.0)"
+    "prompt (>=0.4.1,<0.5.0)",
+    "prettytable (>=3.17.0,<4.0.0)"
 ]
 
 [tool.poetry]
@@ -24,7 +25,7 @@ requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.ruff]
-line-length = 150
+line-length = 88
 target-version = "py312"
 exclude = ["venv", ".venv", "dist", "__pycache__"]
 

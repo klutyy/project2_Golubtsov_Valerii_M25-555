@@ -6,3 +6,5 @@ __pycache__/
 *.pyc
 .idea/
 *.cast
+db_meta.json
+data/
